@@ -15,5 +15,5 @@
 ```
 
 ```package
-artemis-ts=github:BteamLtd/artemis-ts-test#v0.0.66
+artemis-ts=github:BteamLtd/artemis-ts-test#master
 ```
